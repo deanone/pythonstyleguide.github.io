@@ -1,6 +1,6 @@
 # A Python Style Guide for clean Python development
 
-This is a Python Style Guide for developers interested in developing application using the Python programming language.
+This is a Python Style Guide for developers interested in developing applications using the Python programming language.
 
 It is inspired by [PEP 8 style](https://peps.python.org/pep-0008/) and [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html), but contains much less details.
 
